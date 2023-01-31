@@ -29,5 +29,5 @@ From the Analysis and Visualizations, The factors to be considered in predicting
 **Note:** The neighbourhood variable will be an area where additional research could have been done .<br>
 
 **Project Limitation:**<br>
-* The Data would have been better analysed if there were variables that indicates the cause of visitations such as basic check   ups ,emergencies etc and a variable that   indicates patient who missed their appointment and then come back for               rescheduling.
-* The appointment_date variable was recorded as a date format ,which differs from the datetime formatting of the scheduling       date ,this would have helped if it was recorded as datetime as it might indicate the time patient tend to show up for their     appointments or rather when it is defaulted.
+* The Data would have been better analysed if there were variables that indicates the cause of visitations such as basic check   ups ,emergencies etc and a variable that   indicates patient who missed their appointment and then came back for  rescheduling.
+* The appointment_date variable was recorded as a date format ,which differs from the datetime formatting of the scheduling  date ,this would have helped if it was recorded as datetime as it might indicate the time patient tend to show up for their     appointments or rather when it is defaulted.
